@@ -1,0 +1,66 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: no-repeat url('../img/bg-1.jpg');
+  color: #e9ecb5;
+  font-family: 'Rubik', sans-serif;
+}
+
+#optionSelect {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 10px;
+}
+
+#abilities {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  text-align: center;
+}
+
+.portrait, 
+.ability-image {
+  display: block;
+  margin: 0 auto;
+  width: 100px;
+  height: 100px;
+  max-width: 50%;
+}
+
+.portrait:hover {
+  color: darkgray;
+  cursor: pointer;
+}
+
+#full-profile {
+  height: 600px;
+}
+
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+.hidden {
+  display: none;
+}
