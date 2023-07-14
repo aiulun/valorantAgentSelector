@@ -3,7 +3,7 @@ Select agents to get a full character view as well as an overview of their abili
 
 **Link to project:** https://valoagentselect.netlify.app/
 
-![https://imgur.com/wfhDaWH](<div style="width:100%;height:0;padding-bottom:69%;position:relative;"><iframe src="https://giphy.com/embed/HfJWkB3LdeMYuUtVh3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/HfJWkB3LdeMYuUtVh3">via GIPHY</a></p>
+![alt tag](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXA2dmUyMmYwZHEzZ3Q2dzFza2xqN2R4cW44azJ3cngxcDk5bmxsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HfJWkB3LdeMYuUtVh3/giphy.gif
 )
 
 ## How It's Made:
